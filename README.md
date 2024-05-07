@@ -37,7 +37,7 @@
 }
 ```
 
-.prettierrc
+`.prettierrc`
 ```json
 {
   "printWidth": 100,
