@@ -1,5 +1,6 @@
 # Laravel Project Setup
 
+`settings.json`
 ```json
 {
     // Laravel Blade Optimization
