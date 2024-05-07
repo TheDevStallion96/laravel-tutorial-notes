@@ -36,3 +36,25 @@
     }
 }
 ```
+
+.prettierrc
+```json
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "*.blade.php",
+      "options": {
+        "parser": "blade"
+      }
+    }
+  ]
+}
+```
